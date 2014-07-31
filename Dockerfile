@@ -19,4 +19,4 @@ VOLUME ["/etc/sentry.conf.py"]
 EXPOSE 9000
 
 # Default cmd
-CMD ["sentry", "--config=/etc/sentry.conf.py"]
+CMD ["sentry", "--config=/etc/sentry.conf.py", "start"]
