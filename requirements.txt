@@ -20,7 +20,7 @@ django-static-compiler==0.3.3
 django-templatetag-sugar==0.1
 email-reply-parser==0.2.0
 gunicorn==0.17.4
-html5lib==0.999
+html5lib==0.999999999
 httpagentparser==1.2.2
 httplib2==0.9
 kombu==2.5.16
